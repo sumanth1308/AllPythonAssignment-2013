@@ -1,0 +1,7 @@
+Fri Mar 15 11:38:34 2013,Connection established
+Fri Mar 15 11:38:44 2013,Sucessful exit
+Fri Mar 15 11:43:50 2013,Connection established
+Fri Mar 15 11:43:54 2013,Sucessful exit
+Fri Mar 15 11:55:33 2013,query = read db,	db.txt: no such file found to load the table from
+Fri Mar 15 11:55:32 2013,Connection established
+Fri Mar 15 11:55:38 2013,query = read db,	Fatal exception:

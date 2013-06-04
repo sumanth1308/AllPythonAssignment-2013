@@ -1,0 +1,7 @@
+wifi	touch	multi_touch	nfc	display_density	display_size	primary_camera	primary_camera_resolution	secondary_camera	secondary_camera_resolution	tt_3g	tt_2g	classification
+discrete	discrete	discrete	discrete	continuous	continuous	discrete	continuous	discrete	continuous	continuous	continuous	discrete
+												class
+True	True	True	True	441	5.0	True	13.1	True	2.2	14	11
+False	False	False	False	-1	-1	False	-1	False	-1	-1	4
+True	True	True	False	220	5.0	True	8	True	2	-1	-1
+True	True	True	False	326	4.0	True	8	True	1.2	8	8

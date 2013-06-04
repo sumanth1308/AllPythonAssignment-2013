@@ -1,0 +1,56 @@
+dixits-MacBook-Pro:dev_db dixitbp$ python __init__.py 
+KDB shell Version 1.0, debugging mode
+KDB> read
+"error: '(read|write|delete)' or tableName not specified"
+
+
+
+Query execution time: 0.000110149383545s
+KDB> read a
+error: No such table found
+
+
+Query execution time: 0.000126838684082s
+KDB> read db@Tktime = k
+error: Column not found , invalid column name
+
+
+Query execution time: 0.00104999542236s
+KDB> read db@Manufacturer + nokia
+'ERROR: Operator not valid!'  or a missing operand/expression list, after & or | or @
+
+
+Query execution time: 0.000192880630493s
+KDB> read db@Manufacturer = nokia@Mfr
+ColumnName in select string not valid
+
+
+Query execution time: 0.000724792480469s
+KDB> read db@Manufacturer = xyz
+Null set
+
+
+Query execution time: 0.00064492225647s
+KDB> write db
+error: Invalid syntax for (write|delete)
+
+
+Query execution time: 0.000159025192261s
+KDB> delete db
+error: Invalid syntax for (write|delete)
+
+
+Query execution time: 0.000159025192261s
+KDB>        
+
+
+
+
+
+
+
+
+
+
+
+

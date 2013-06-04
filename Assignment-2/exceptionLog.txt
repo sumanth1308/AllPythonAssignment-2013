@@ -1,0 +1,11 @@
+Sat Mar 16 09:22:10 2013,FROM = ('127.0.0.1', 40557),query = read aaa,	aaa.txt: no such file found to load the table from
+Sat Mar 16 09:26:18 2013,FROM = ('127.0.0.1', 40558),query = hello,	
+Sat Mar 16 10:02:43 2013,FROM = ('127.0.0.1', 32898),query = asd,	
+Tue Jun  4 06:50:20 2013,FROM = ('127.0.0.1', 59566),query = ,	"error: '(read|write|delete)' or tableName not specified"
+A SOCKET ERROR HAS OCCURED 
+[Errno 48] Address already in use
+A SOCKET ERROR HAS OCCURED 
+[Errno 48] Address already in use
+Tue Jun  4 07:01:00 2013,FROM = ('127.0.0.1', 59777),query = read k,	k.txt: no such file found to load the table from
+Tue Jun  4 07:01:51 2013,FROM = ('127.0.0.1', 59778),query = ,	"error: '(read|write|delete)' or tableName not specified"
+Tue Jun  4 07:02:12 2013,FROM = ('127.0.0.1', 59780),query = ,	"error: '(read|write|delete)' or tableName not specified"

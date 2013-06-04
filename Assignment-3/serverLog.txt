@@ -1,0 +1,7 @@
+server started atTue Jun  4 08:10:01 2013
+server closed normally at time: Tue Jun  4 08:16:25 2013
+server started atTue Jun  4 08:16:45 2013
+server closed normally at time: Tue Jun  4 08:19:50 2013
+server started atTue Jun  4 08:19:51 2013
+server closed normally at time: Tue Jun  4 08:53:31 2013
+server started atTue Jun  4 08:53:35 2013

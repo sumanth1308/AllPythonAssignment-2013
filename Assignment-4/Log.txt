@@ -1,0 +1,24 @@
+Analysis started at time:Tue Jun  4 07:28:06 2013
+Analysis completed at time:Tue Jun  4 07:28:14 2013
+Analysis started at time:Tue Jun  4 07:29:34 2013
+Analysis completed at time:Tue Jun  4 07:29:44 2013
+Analysis started at time:Tue Jun  4 07:31:40 2013
+Analysis completed at time:Tue Jun  4 07:31:48 2013
+Analysis started at time:Tue Jun  4 07:42:10 2013
+Analysis completed at time:Tue Jun  4 07:42:26 2013
+Training started at time:Tue Jun  4 07:50:39 2013
+Training completed at time:Tue Jun  4 07:54:16 2013
+Analysis started at time:Tue Jun  4 07:57:34 2013
+Program terminated at time:Tue Jun  4 07:57:59 2013due to:'orange.BayesLearner': class-less domain
+Training started at time:Tue Jun  4 08:01:52 2013
+Program terminated at time:Tue Jun  4 08:02:27 2013due to:IncompleteRead(3846 bytes read, 4070 more expected)
+Training started at time:Tue Jun  4 08:03:32 2013
+Program terminated at time:Tue Jun  4 08:04:41 2013due to:IncompleteRead(3856 bytes read, 4070 more expected)
+Training started at time:Tue Jun  4 08:06:24 2013
+Training completed at time:Tue Jun  4 08:10:02 2013
+Analysis started at time:Tue Jun  4 08:10:14 2013
+Analysis completed at time:Tue Jun  4 08:10:26 2013
+Analysis started at time:Tue Jun  4 08:11:50 2013
+Analysis completed at time:Tue Jun  4 08:12:04 2013
+Analysis started at time:Tue Jun  4 08:14:30 2013
+Analysis completed at time:Tue Jun  4 08:14:48 2013

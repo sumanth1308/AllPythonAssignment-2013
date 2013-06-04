@@ -1,0 +1,132 @@
+dixits-MacBook-Pro:dev_db dixitbp$ python __init__.py 
+KDB shell Version 1.0, debugging mode
+KDB> read db
+    Talktime	   Thickness	 ModelNumber	SecondaryCamera	       Touch	         GPS	OperatingSystem	Manufacturer	
+           7	          12	samsung 5141	       False	       False	        True	Windows Phone 7	     samsung	
+           9	          13	   sony 4195	       False	       False	       False	     symbian	        sony	
+          14	          13	    htc 3469	       False	       False	       False	       Meego	         htc	
+          15	          10	samsung 7778	       False	        True	        True	     symbian	     samsung	
+           6	          12	  nokia 6261	        True	       False	        True	     Android	       nokia	
+          12	          14	   sony 4024	       False	       False	        True	         ios	        sony	
+          12	          11	   sony 2017	        True	       False	        True	         ios	        sony	
+          15	          14	samsung 8339	       False	        True	        True	     Android	     samsung	
+          15	          10	  nokia 7832	        True	        True	        True	Windows Phone 7	       nokia	
+          10	           9	samsung 1172	       False	       False	        True	Windows Phone 7	     samsung	
+          17	          14	  nokia 1179	        True	       False	       False	Windows Phone 7	       nokia	
+          14	          10	samsung 9829	       False	        True	       False	         ios	     samsung	
+          10	          12	samsung 7337	       False	       False	        True	Windows Phone 7	     samsung	
+          12	          14	  apple 8484	        True	       False	       False	Windows Phone 7	       apple	
+          16	          12	  nokia 9356	       False	       False	       False	Windows Phone 7	       nokia	
+          14	          14	samsung 3808	        True	        True	       False	     Android	     samsung	
+          17	          12	samsung 4077	       False	       False	       False	         ios	     samsung	
+           7	          10	    htc 1695	        True	        True	       False	Windows Phone 7	         htc	
+          17	          14	    htc 6199	       False	        True	        True	         ios	         htc	
+           7	          10	  apple 2657	        True	        True	       False	Windows Phone 7	       apple	
+          17	          13	  nokia 4642	       False	        True	       False	       Meego	       nokia	
+          11	          12	samsung 5579	        True	       False	       False	         ios	     samsung	
+           4	          14	samsung 6874	        True	        True	       False	       Meego	     samsung	
+          16	           9	samsung 4680	       False	        True	        True	       Meego	     samsung	
+          12	          12	  nokia 6803	        True	        True	        True	     Android	       nokia	
+          13	           9	  apple 4842	        True	        True	       False	     symbian	       apple	
+          14	          14	   sony 7235	        True	       False	        True	     Android	        sony	
+          17	          12	   sony 9361	       False	       False	       False	Windows Phone 7	        sony	
+          15	          14	   sony 3870	       False	        True	       False	         ios	        sony	
+          15	          13	  nokia 6103	        True	        True	        True	       Meego	       nokia	
+          10	          11	   sony 3058	       False	        True	        True	Windows Phone 7	        sony	
+           9	          12	samsung 2567	       False	        True	        True	       Meego	     samsung	
+           6	          10	  apple 9645	       False	       False	       False	         ios	       apple	
+          11	          12	    htc 6004	       False	        True	        True	         ios	         htc	
+          13	          12	samsung 3674	       False	       False	        True	Windows Phone 7	     samsung	
+          15	          11	samsung 1891	        True	        True	        True	     symbian	     samsung	
+           5	          12	  nokia 6686	       False	       False	        True	         ios	       nokia	
+          11	          13	  apple 6357	        True	        True	       False	     symbian	       apple	
+          15	          13	  nokia 1758	        True	        True	       False	     Android	       nokia	
+           6	          12	    htc 7837	       False	       False	       False	         ios	         htc	
+           9	          13	   sony 1289	       False	       False	       False	       Meego	        sony	
+          10	          10	   sony 2640	        True	        True	       False	         ios	        sony	
+           6	          14	samsung 1214	       False	        True	        True	     Android	     samsung	
+          15	          12	  apple 5526	        True	        True	       False	         ios	       apple	
+          11	          14	   sony 7294	        True	       False	       False	     Android	        sony	
+          13	          11	    htc 3548	       False	       False	       False	     Android	         htc	
+           7	          10	  nokia 2625	       False	       False	        True	         ios	       nokia	
+          10	          10	    htc 2463	       False	       False	        True	     symbian	         htc	
+          10	           9	    htc 2802	       False	        True	       False	       Meego	         htc	
+           5	          11	  apple 6385	       False	       False	        True	     Android	       apple	
+           4	          13	samsung 6633	       False	       False	       False	     Android	     samsung	
+          13	          12	  apple 2664	        True	        True	        True	         ios	       apple	
+          13	          12	samsung 5216	       False	       False	       False	     Android	     samsung	
+           7	          12	  apple 6842	        True	       False	       False	     symbian	       apple	
+           9	          12	   sony 8666	        True	        True	       False	Windows Phone 7	        sony	
+           6	          12	  apple 4532	       False	        True	        True	Windows Phone 7	       apple	
+          12	          12	    htc 7466	        True	       False	        True	     Android	         htc	
+          11	          11	  nokia 6639	       False	       False	        True	Windows Phone 7	       nokia	
+          16	          13	   sony 6779	       False	       False	        True	     Android	        sony	
+           4	          12	   sony 2763	       False	       False	        True	Windows Phone 7	        sony	
+          15	           9	samsung 4763	        True	        True	       False	     symbian	     samsung	
+           6	          14	samsung 7542	       False	        True	       False	         ios	     samsung	
+           4	           9	  apple 3206	       False	        True	        True	         ios	       apple	
+           4	          13	samsung 8898	        True	       False	       False	       Meego	     samsung	
+          11	          12	   sony 2554	       False	        True	       False	         ios	        sony	
+          12	           9	samsung 4798	       False	       False	       False	       Meego	     samsung	
+           7	          12	  nokia 5971	        True	       False	       False	Windows Phone 7	       nokia	
+           9	          10	   sony 7872	       False	        True	       False	     Android	        sony	
+          12	          12	  apple 3195	        True	       False	        True	Windows Phone 7	       apple	
+          11	          14	samsung 5233	        True	       False	        True	     Android	     samsung	
+           4	          12	samsung 7437	       False	        True	       False	       Meego	     samsung	
+           5	          14	   sony 8134	       False	        True	       False	         ios	        sony	
+          14	          10	  apple 3811	       False	       False	       False	     symbian	       apple	
+          10	          10	  apple 6221	        True	       False	       False	     symbian	       apple	
+          12	          10	  nokia 1484	       False	       False	       False	     Android	       nokia	
+          17	          10	   sony 3211	       False	       False	        True	     symbian	        sony	
+          14	          12	  nokia 1112	       False	        True	       False	Windows Phone 7	       nokia	
+          17	           9	samsung 2458	        True	        True	        True	Windows Phone 7	     samsung	
+          12	          14	   sony 1559	        True	        True	       False	       Meego	        sony	
+          17	          10	  nokia 5062	       False	       False	       False	Windows Phone 7	       nokia	
+           4	           9	    htc 8571	       False	       False	        True	Windows Phone 7	         htc	
+           8	          12	samsung 2469	        True	       False	        True	     symbian	     samsung	
+           7	          14	   sony 3155	        True	        True	       False	       Meego	        sony	
+          13	          14	samsung 4616	       False	       False	       False	Windows Phone 7	     samsung	
+          16	          10	  apple 3104	        True	        True	       False	     Android	       apple	
+          17	          12	  nokia 7996	       False	       False	       False	     Android	       nokia	
+          13	          11	samsung 4571	        True	        True	       False	       Meego	     samsung	
+          11	          13	  nokia 6047	        True	        True	        True	Windows Phone 7	       nokia	
+          16	           9	   sony 2407	        True	       False	        True	         ios	        sony	
+          12	          10	   sony 8306	        True	        True	        True	     symbian	        sony	
+           4	           9	  nokia 6830	       False	       False	        True	     Android	       nokia	
+          11	          10	   sony 3298	        True	        True	        True	Windows Phone 7	        sony	
+          13	          14	samsung 2141	       False	       False	       False	         ios	     samsung	
+           7	          12	    htc 4410	        True	       False	       False	       Meego	         htc	
+           8	          12	   sony 9832	       False	       False	       False	     symbian	        sony	
+           7	          12	  apple 9974	       False	       False	        True	     symbian	       apple	
+          17	           9	samsung 8043	       False	        True	        True	       Meego	     samsung	
+           9	           9	    htc 4749	       False	        True	        True	Windows Phone 7	         htc	
+          15	          12	samsung 6409	        True	        True	        True	       Meego	     samsung	
+          12	          14	  nokia 8678	       False	       False	        True	         ios	       nokia	
+
+
+Query execution time: 0.00312209129333s
+KDB> read db@Manufacturer = nokia & Talktime >9 & OperatingSystem = Android
+
+
+    Talktime	   Thickness	 ModelNumber	SecondaryCamera	       Touch	Manufacturer	OperatingSystem	         GPS	
+          12	          12	  nokia 6803	        True	        True	       nokia	     Android	        True	
+          15	          13	  nokia 1758	        True	        True	       nokia	     Android	       False	
+          12	          10	  nokia 1484	       False	       False	       nokia	     Android	       False	
+          17	          12	  nokia 7996	       False	       False	       nokia	     Android	       False	
+
+
+Query execution time: 0.00162792205811s
+KDB> read db@Manufacturer = nokia & Talktime >9 & OperatingSystem =Android @ Manufacturer,Touch,Talktime,GPS
+
+
+       Touch	         GPS	    Talktime	Manufacturer	
+        True	        True	          12	       nokia	
+        True	       False	          15	       nokia	
+       False	       False	          12	       nokia	
+       False	       False	          17	       nokia	
+
+
+Query execution time: 0.00189089775085s
+KDB> ^C
+Successful exit
+dixits-MacBook-Pro:dev_db dixitbp$ 

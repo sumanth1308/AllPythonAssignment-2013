@@ -1,0 +1,39 @@
+TCP connection to:('127.0.0.1', 59545)closedTue Jun  4 06:49:42 2013
+TCP connection to:('127.0.0.1', 59546)closedTue Jun  4 06:49:53 2013
+TCP connection to:('127.0.0.1', 59565)closedTue Jun  4 06:50:18 2013
+TCP connection to:('127.0.0.1', 59566)closedTue Jun  4 06:50:20 2013
+Server Process startedTue Jun  4 06:49:10 2013
+TCP connection to:('127.0.0.1', 59545)activeTue Jun  4 06:49:39 2013
+TCP connection to:('127.0.0.1', 59546)activeTue Jun  4 06:49:51 2013
+TCP connection to:('127.0.0.1', 59565)activeTue Jun  4 06:50:16 2013
+TCP connection to:('127.0.0.1', 59566)activeTue Jun  4 06:50:18 2013
+TCP connection to:('127.0.0.1', 59567)activeTue Jun  4 06:50:30 2013
+Server process terminated Tue Jun  4 06:50:33 2013
+TCP connection to:('127.0.0.1', 59567)closedTue Jun  4 06:50:42 2013
+TCP connection to:('127.0.0.1', 59569)closedTue Jun  4 06:51:41 2013
+Server Process startedTue Jun  4 06:55:05 2013
+Server process terminated Tue Jun  4 06:55:08 2013
+Server Process startedTue Jun  4 06:55:29 2013
+Server process terminated Tue Jun  4 06:55:30 2013
+Server Process startedTue Jun  4 06:59:04 2013
+Server process terminated Tue Jun  4 06:59:05 2013
+Server Process startedTue Jun  4 06:59:11 2013
+TCP connection to:('127.0.0.1', 59755)activeTue Jun  4 06:59:13 2013
+TCP connection to:('127.0.0.1', 59757)closedTue Jun  4 06:59:39 2013
+TCP connection to:('127.0.0.1', 59758)closedTue Jun  4 06:59:48 2013
+Server Process startedTue Jun  4 06:59:32 2013
+TCP connection to:('127.0.0.1', 59757)activeTue Jun  4 06:59:34 2013
+TCP connection to:('127.0.0.1', 59758)activeTue Jun  4 06:59:39 2013
+Server process terminated Tue Jun  4 06:59:45 2013
+TCP connection to:('127.0.0.1', 59777)closedTue Jun  4 07:01:00 2013
+TCP connection to:('127.0.0.1', 59778)closedTue Jun  4 07:01:51 2013
+Server Process startedTue Jun  4 07:00:52 2013
+TCP connection to:('127.0.0.1', 59777)activeTue Jun  4 07:00:56 2013
+TCP connection to:('127.0.0.1', 59778)activeTue Jun  4 07:01:00 2013
+Server process terminated Tue Jun  4 07:01:54 2013
+TCP connection to:('127.0.0.1', 59779)closedTue Jun  4 07:02:08 2013
+TCP connection to:('127.0.0.1', 59780)closedTue Jun  4 07:02:12 2013
+Server Process startedTue Jun  4 07:01:56 2013
+TCP connection to:('127.0.0.1', 59779)activeTue Jun  4 07:01:57 2013
+TCP connection to:('127.0.0.1', 59780)activeTue Jun  4 07:02:08 2013
+Server process terminated Tue Jun  4 07:02:15 2013

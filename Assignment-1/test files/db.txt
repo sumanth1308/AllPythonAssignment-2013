@@ -1,0 +1,101 @@
+Model,Manufacturer,OperatingSystem,Talktime,Touch,SecondaryCamera,GPS,Thickness
+samsung 5141,samsung,Windows Phone 7,7,False,False,True,12
+sony 4195,sony,symbian,9,False,False,False,13
+htc 3469,htc,Meego,14,False,False,False,13
+samsung 7778,samsung,symbian,15,True,False,True,10
+nokia 6261,nokia,Android,6,False,True,True,12
+sony 4024,sony,ios,12,False,False,True,14
+sony 2017,sony,ios,12,False,True,True,11
+samsung 8339,samsung,Android,15,True,False,True,14
+nokia 7832,nokia,Windows Phone 7,15,True,True,True,10
+samsung 1172,samsung,Windows Phone 7,10,False,False,True,9
+nokia 1179,nokia,Windows Phone 7,17,False,True,False,14
+samsung 9829,samsung,ios,14,True,False,False,10
+samsung 7337,samsung,Windows Phone 7,10,False,False,True,12
+apple 8484,apple,Windows Phone 7,12,False,True,False,14
+nokia 9356,nokia,Windows Phone 7,16,False,False,False,12
+samsung 3808,samsung,Android,14,True,True,False,14
+samsung 4077,samsung,ios,17,False,False,False,12
+htc 1695,htc,Windows Phone 7,7,True,True,False,10
+htc 6199,htc,ios,17,True,False,True,14
+apple 2657,apple,Windows Phone 7,7,True,True,False,10
+nokia 4642,nokia,Meego,17,True,False,False,13
+samsung 5579,samsung,ios,11,False,True,False,12
+samsung 6874,samsung,Meego,4,True,True,False,14
+samsung 4680,samsung,Meego,16,True,False,True,9
+nokia 6803,nokia,Android,12,True,True,True,12
+apple 4842,apple,symbian,13,True,True,False,9
+sony 7235,sony,Android,14,False,True,True,14
+sony 9361,sony,Windows Phone 7,17,False,False,False,12
+sony 3870,sony,ios,15,True,False,False,14
+nokia 6103,nokia,Meego,15,True,True,True,13
+sony 3058,sony,Windows Phone 7,10,True,False,True,11
+samsung 2567,samsung,Meego,9,True,False,True,12
+apple 9645,apple,ios,6,False,False,False,10
+htc 6004,htc,ios,11,True,False,True,12
+samsung 3674,samsung,Windows Phone 7,13,False,False,True,12
+samsung 1891,samsung,symbian,15,True,True,True,11
+nokia 6686,nokia,ios,5,False,False,True,12
+apple 6357,apple,symbian,11,True,True,False,13
+nokia 1758,nokia,Android,15,True,True,False,13
+htc 7837,htc,ios,6,False,False,False,12
+sony 1289,sony,Meego,9,False,False,False,13
+sony 2640,sony,ios,10,True,True,False,10
+samsung 1214,samsung,Android,6,True,False,True,14
+apple 5526,apple,ios,15,True,True,False,12
+sony 7294,sony,Android,11,False,True,False,14
+htc 3548,htc,Android,13,False,False,False,11
+nokia 2625,nokia,ios,7,False,False,True,10
+htc 2463,htc,symbian,10,False,False,True,10
+htc 2802,htc,Meego,10,True,False,False,9
+apple 6385,apple,Android,5,False,False,True,11
+samsung 6633,samsung,Android,4,False,False,False,13
+apple 2664,apple,ios,13,True,True,True,12
+samsung 5216,samsung,Android,13,False,False,False,12
+apple 6842,apple,symbian,7,False,True,False,12
+sony 8666,sony,Windows Phone 7,9,True,True,False,12
+apple 4532,apple,Windows Phone 7,6,True,False,True,12
+htc 7466,htc,Android,12,False,True,True,12
+nokia 6639,nokia,Windows Phone 7,11,False,False,True,11
+sony 6779,sony,Android,16,False,False,True,13
+sony 2763,sony,Windows Phone 7,4,False,False,True,12
+samsung 4763,samsung,symbian,15,True,True,False,9
+samsung 7542,samsung,ios,6,True,False,False,14
+apple 3206,apple,ios,4,True,False,True,9
+samsung 8898,samsung,Meego,4,False,True,False,13
+sony 2554,sony,ios,11,True,False,False,12
+samsung 4798,samsung,Meego,12,False,False,False,9
+nokia 5971,nokia,Windows Phone 7,7,False,True,False,12
+sony 7872,sony,Android,9,True,False,False,10
+apple 3195,apple,Windows Phone 7,12,False,True,True,12
+samsung 5233,samsung,Android,11,False,True,True,14
+samsung 7437,samsung,Meego,4,True,False,False,12
+sony 8134,sony,ios,5,True,False,False,14
+apple 3811,apple,symbian,14,False,False,False,10
+apple 6221,apple,symbian,10,False,True,False,10
+nokia 1484,nokia,Android,12,False,False,False,10
+sony 3211,sony,symbian,17,False,False,True,10
+nokia 1112,nokia,Windows Phone 7,14,True,False,False,12
+samsung 2458,samsung,Windows Phone 7,17,True,True,True,9
+sony 1559,sony,Meego,12,True,True,False,14
+nokia 5062,nokia,Windows Phone 7,17,False,False,False,10
+htc 8571,htc,Windows Phone 7,4,False,False,True,9
+samsung 2469,samsung,symbian,8,False,True,True,12
+sony 3155,sony,Meego,7,True,True,False,14
+samsung 4616,samsung,Windows Phone 7,13,False,False,False,14
+apple 3104,apple,Android,16,True,True,False,10
+nokia 7996,nokia,Android,17,False,False,False,12
+samsung 4571,samsung,Meego,13,True,True,False,11
+nokia 6047,nokia,Windows Phone 7,11,True,True,True,13
+sony 2407,sony,ios,16,False,True,True,9
+sony 8306,sony,symbian,12,True,True,True,10
+nokia 6830,nokia,Android,4,False,False,True,9
+sony 3298,sony,Windows Phone 7,11,True,True,True,10
+samsung 2141,samsung,ios,13,False,False,False,14
+htc 4410,htc,Meego,7,False,True,False,12
+sony 9832,sony,symbian,8,False,False,False,12
+apple 9974,apple,symbian,7,False,False,True,12
+samsung 8043,samsung,Meego,17,True,False,True,9
+htc 4749,htc,Windows Phone 7,9,True,False,True,9
+samsung 6409,samsung,Meego,15,True,True,True,12
+nokia 8678,nokia,ios,12,False,False,True,14
